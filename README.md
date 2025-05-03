@@ -33,7 +33,7 @@ This repository contains an interactive Power BI dashboard for analyzing the sal
 ## 📁 Files
 
 - `Super_store_sales_analysis.png`: Screenshot of the Power BI dashboard  
-- `Super_Store_Sales_Dashboard.pbix`: Power BI file containing the interactive dashboard
+- `Sales Dashboard.pbix`: Power BI file containing the interactive dashboard
 
 ## 🚀 Getting Started
 
